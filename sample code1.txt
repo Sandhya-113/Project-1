@@ -1,4 +1,4 @@
-Menu code:
+#comment#
 
         IDENTIFICATION DIVISION.                                         
         PROGRAM-ID. A11PGM4.                                             
